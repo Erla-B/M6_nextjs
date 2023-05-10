@@ -1,3 +1,8 @@
+I made a little blog page for this project. Learned to use markdown, which is cool. Had some errors with my page links, which is less cool and I ran out of time so I unfortunately didn't manage to fix it.
+But I hope it's enough to show that I learned something!
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
